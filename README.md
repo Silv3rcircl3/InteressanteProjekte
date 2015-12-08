@@ -9,3 +9,8 @@
 
 ##### Testdaten
 - [Bogus](https://github.com/bchavez/Bogus)
+
+
+### Rund um Akka
+
+- [Even](https://github.com/nvivo/Even), CQRS und EventSourcing
