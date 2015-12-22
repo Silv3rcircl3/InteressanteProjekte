@@ -14,3 +14,7 @@
 ### Rund um Akka
 
 - [Even](https://github.com/nvivo/Even), CQRS und EventSourcing
+
+### Webseite
+
+- [Semantic-UI](http://www.semantic-ui.com)
